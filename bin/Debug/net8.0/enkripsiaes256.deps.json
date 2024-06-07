@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "enkripsiaes256/1.0.0": {
+        "runtime": {
+          "enkripsiaes256.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "enkripsiaes256/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

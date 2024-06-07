@@ -1,0 +1,14 @@
+C:\c#.net\enkripsiaes256\bin\Debug\net8.0\enkripsiaes256.exe
+C:\c#.net\enkripsiaes256\bin\Debug\net8.0\enkripsiaes256.deps.json
+C:\c#.net\enkripsiaes256\bin\Debug\net8.0\enkripsiaes256.runtimeconfig.json
+C:\c#.net\enkripsiaes256\bin\Debug\net8.0\enkripsiaes256.dll
+C:\c#.net\enkripsiaes256\bin\Debug\net8.0\enkripsiaes256.pdb
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\enkripsiaes256.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\enkripsiaes256.AssemblyInfoInputs.cache
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\enkripsiaes256.AssemblyInfo.cs
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\enkripsiaes256.csproj.CoreCompileInputs.cache
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\enkripsiaes256.dll
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\refint\enkripsiaes256.dll
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\enkripsiaes256.pdb
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\enkripsiaes256.genruntimeconfig.cache
+C:\c#.net\enkripsiaes256\obj\Debug\net8.0\ref\enkripsiaes256.dll
